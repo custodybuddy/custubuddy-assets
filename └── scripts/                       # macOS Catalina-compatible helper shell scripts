@@ -1,0 +1,16 @@
+
+## Standard Naming Convention
+
+All assets copied into the master library follow this standard naming convention:
+
+`cb-[category]-[description]-[orientation]-[variant]-v[number].[ext]`
+
+Examples:
+- `cb-background-navy-haze-landscape-v01.png`
+- `cb-logo-shield-gold-transparent-v01.png`
+- `cb-product-incident-form-description-closeup-v01.png`
+
+## How Projects Should Use Assets
+
+Do NOT point production builds directly to raw source files in other project folders. Use the included helper script to pull approved assets into your project:
+

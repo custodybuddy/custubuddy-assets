@@ -1,0 +1,35 @@
+{
+  "library": "CustodyBuddy-Brand-Library",
+  "version": "1.0.0",
+  "generated": "2023-10-24T00:00:00Z",
+  "assets": [
+    {
+      "id": "cb-logo-wordmark-dark-01",
+      "filename": "cb-logo-wordmark-dark-transparent-v01.png",
+      "originalFilename": "custodybuddy-wordmark-on-dark.png",
+      "originalSourcePath": "assets/brand/logos/custodybuddy-wordmark-on-dark.png",
+      "libraryPath": "01-BRAND/logos/wordmark/cb-logo-wordmark-dark-transparent-v01.png",
+      "category": "brand",
+      "fileType": "png",
+      "dimensions": "600x150",
+      "transparent": true,
+      "orientation": "landscape",
+      "version": "1.0",
+      "approvalStatus": "approved",
+      "checksum": "a1b2c3d4e5f6078987654321fedcba09876543210123456789abcdef01234567",
+      "notes": "Approved wordmark for dark surfaces."
+    },
+    {
+      "id": "cb-audio-ui-confirm-01",
+      "filename": "cb-audio-ui-confirm-v01.wav",
+      "originalFilename": "ui-confirm.wav",
+      "originalSourcePath": "assets/brand/audio/ui-confirm.wav",
+      "libraryPath": "07-AUDIO/sound-effects/cb-audio-ui-confirm-v01.wav",
+      "category": "audio",
+      "fileType": "wav",
+      "version": "1.0",
+      "approvalStatus": "approved",
+      "notes": "UI confirmation tone, 44.1kHz mono WAV."
+    }
+  ]
+}
